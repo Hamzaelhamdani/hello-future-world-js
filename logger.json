@@ -1,0 +1,43 @@
+{
+  "config": {
+    "scriptCategory": "config",
+    "ansiDisabled": false,
+    "metricsId": "bc50c699e523bf8e2dc03a77da134445",
+    "metricsAccountId": "0.0.5199587",
+    "metricsAccountKey": "3030020100300706052b8104000a04220420a1169b9f5b7b776d542cd2b1a3a334eb43401115d8616f70d8d202fb0b21729f",
+    "metricsHcsTopicMemo": "HFWV2",
+    "metricsHcsTopicId": "0.0.4573319",
+    "metricsHcsDisabled": false
+  },
+  "level": "info",
+  "output": "console",
+  "filepath": "./logs/output.log",
+  "transferHbar": {
+    "scriptCategory": "task",
+    "firstStart": 1733739243627,
+    "lastStart": 1733739488668,
+    "countStart": 2,
+    "firstComplete": 1733739328517,
+    "lastComplete": 1733739596757,
+    "countComplete": 2,
+    "firstError": 9007199254740991,
+    "lastError": 0,
+    "countError": 0,
+    "countErrorBeforeFirstComplete": 0,
+    "countErrorAfterFirstComplete": 0
+  },
+  "hcsTopic": {
+    "scriptCategory": "task",
+    "firstStart": 1733739635760,
+    "lastStart": 1733739719674,
+    "countStart": 2,
+    "firstComplete": 1733739671615,
+    "lastComplete": 1733739758031,
+    "countComplete": 2,
+    "firstError": 9007199254740991,
+    "lastError": 0,
+    "countError": 0,
+    "countErrorBeforeFirstComplete": 0,
+    "countErrorAfterFirstComplete": 0
+  }
+}
