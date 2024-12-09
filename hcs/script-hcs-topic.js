@@ -74,7 +74,7 @@ async function scriptHcsTopic() {
     .setTransactionMemo(`Hello Future World topic message - ${logger.version}`)
     .setTopicId(topicId)
     //Set the topic message contents
-    .setMessage('Hello HCS!')
+    .setMessage('Coucou Hamza !')
     // Freeze the transaction to prepare for signing
     .freezeWith(client);
 
